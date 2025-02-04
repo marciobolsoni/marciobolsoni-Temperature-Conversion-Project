@@ -7,3 +7,5 @@ The temperature conversion project is a project developed in NodeJS. The project
 ## Project notes
 
 The application is exposed using port 8080
+
+## Step by Step
